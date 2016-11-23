@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDemo</string>
+    <string name="lastOne">上一筆</string>
+    <string name="nextOne">下一筆</string>
+    <string name="id">帳號 : </string>
+    <string name="name">姓名 : </string>
+    <string name="cost">消費額 : </string>
+    <string name="count">點數 : </string>
+    <string name="birthday">生日 : </string>
+    <string name="height">身高 : </string>
+    <string name="weight">體重 : </string>
+    <string name="add">新增</string>
+</resources>
